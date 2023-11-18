@@ -14,3 +14,4 @@
 ### 1.ER图
 ![image](https://github.com/Lance15845/Management-System/blob/main/src/main/image.png)
 ### 2.时序图
+![image](https://github.com/Lance15845/Management-System/blob/main/src/main/image1.png)
